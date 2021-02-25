@@ -1,4 +1,4 @@
-package cts.maven;
+package cts;
 public class App 
 {
     public static void main( String[] args )
